@@ -1,6 +1,7 @@
 {
   "keys" : [ {
     "kty" : "RSA",
+    "use" : "sig",
     "x5t#S256" : "lstP1w_2G37HWaecBHVHze24SeZSOM5yszyeyhPDh3c",
     "e" : "AQAB",
     "kid" : "revolut-qseal",
